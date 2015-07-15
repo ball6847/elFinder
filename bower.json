@@ -8,9 +8,9 @@
   "description": "my elFinder fork for easier installation via bower",
   "license": "MIT",
   "main": [
-    "js/elfinder.min.js",
-    "css/elfinder.min.css",
-    "css/theme.css"
+    "dist/js/elfinder.min.js",
+    "dist/css/elfinder.min.css",
+    "dist/css/theme.css"
   ],
   "ignore": [
     "**/.*",
