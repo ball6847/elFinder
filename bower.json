@@ -1,0 +1,22 @@
+{
+  "name": "elFinder",
+  "version": "2.0.0",
+  "homepage": "https://github.com/ball6847/elFinder",
+  "authors": [
+    "Porawit Poboonma <porawit.p@bizidea.co.th>"
+  ],
+  "description": "my elFinder fork for easier installation via bower",
+  "license": "MIT",
+  "main": [
+    "js/elfinder.min.js",
+    "css/elfinder.min.css",
+    "css/theme.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
